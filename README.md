@@ -1,1 +1,1 @@
-"# jquery-table-calc" 
+# jquery-table-calc
