@@ -1,0 +1,21 @@
+// Default Variables
+$mobile-only: '(max-width:599px)';
+$mini-mobile-only: '(max-width:375px)';
+
+$tablet-portrait-up: '(min-width:600px)';
+$tablet-portrait-only: '(min-width:600px) and (max-width:960px)';
+$tablet-portrait-down: '(max-width:959px)';
+
+$tablet-landscape-up: '(min-width:960px)';
+$tablet-landscape-only: '(min-width:960px) and (max-width:1200px)';
+$tablet-landscape-down: '(max-width:1199px)';
+
+$laptop-up: '(min-width:1200px)';
+$laptop-only: '(min-width:1200px) and (max-width:1660px)';
+$laptop-down: '(max-width:1659px)';
+
+$desktop-up: '(min-width:1660px)';
+$desktop-only: '(min-width:1660px)';
+$desktop-down: '(max-width:2559px)';
+
+$highres-up: '(min-width:2560px)';
